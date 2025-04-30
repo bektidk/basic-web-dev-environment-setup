@@ -1,5 +1,8 @@
 # Basic Web Development Environment Setup
 
+[![English](https://img.shields.io/badge/lang-English-blue)](README.md)  
+[![Bahasa Indonesia](https://img.shields.io/badge/lang-Indonesia-red)](README.id.md)
+
 Welcome to the **Basic Web Development Environment Setup** guide! This repository provides you with the essential tools and steps to set up your environment for web development. It serves as a starting point for designing a website using HTML and CSS.
 
 ## Table of Contents
